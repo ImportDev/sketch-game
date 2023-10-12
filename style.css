@@ -1,0 +1,28 @@
+html body{
+  background-color:black;
+  color: #ffffff;
+}
+
+#container {
+  display: grid;
+  grid-template-columns: repeat(16, 26px);
+  grid-template-rows: repeat(16, 26px);
+}
+
+.cells {
+  background-color: white;
+  border: 1px solid black;
+}
+
+#new-grid-btn {
+  padding: 10px 20px;
+  background-color: black;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#new-grid-btn:hover {
+  background-color: lightseagreen;
+}

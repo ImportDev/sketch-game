@@ -1,4 +1,6 @@
-# sketch-game
+# Etch-A-Sketch-game
+
+https://importdev.github.io/sketch-game/
 
 About to learn more about dom manipulation
 
